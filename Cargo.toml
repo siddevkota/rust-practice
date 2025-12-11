@@ -1,0 +1,13 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "week1/hello_rust",
+    # Add more projects as you create them:
+    # "week1/temperature_converter",
+    # "week1/guessing_game",
+    # "week1/calculator",
+]
+
+# This is a workspace root - it doesn't contain code itself,
+# but manages all your practice projects together
